@@ -1,0 +1,10 @@
+nx 600
+ny 400
+ns 15
+camera 13 2 3
+center 0 0 0
+viewup 0 1 0
+sphere center 0. -1000. 0. radius 1000
+material lambertian albedo .5 .5 .5
+sphere center 0 1 0 radius 1 material
+metal albedo .7 .3 .2 fuzz 0.
