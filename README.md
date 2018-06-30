@@ -4,4 +4,4 @@ Ray tracing is a rendering technique for generating an image by tracing the path
 
 
 
-![Alt text](Shirley-scene.png?raw=true "Title")
+![Alt text](Shirley.png?raw=true "Title")
